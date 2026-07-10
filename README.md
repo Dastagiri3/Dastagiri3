@@ -1,14 +1,76 @@
-"👋 Hi, I'm Guru Dastagiri | Full-Stack Developer & AI Enthusiast".
+<h1 align="center">👋 Hi, I'm Guru Dastagiri Jillela</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on full-stack web applications and AI-powered solutions<br>🤝 I’m looking to collaborate on real-world projects involving web development, automation, and AI systems<br>🧠 I’m looking for help with scaling applications, backend architecture, and deploying production-ready apps<br>🌱 I’m currently learning advanced full-stack development, system design, and AI integrations<br>💬 Ask me about HTML, CSS, JavaScript, React, Python, and building portfolio/projects<br>⚡ Fun fact: I love turning ideas into real-world applications and continuously improving my skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dastagiri3&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dastagiri_jillela) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ guru dastagiri Jillela) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](emailto: gurudastagiri3@gmail.com) 
+### 🚀 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+I'm a passionate Full-Stack Developer who loves transforming complex, real-world problems into clean, scalable, and elegant applications. Currently, I am deeply focused on sharpening my logical reasoning through **daily Data Structures & Algorithms** practice, while simultaneously building full-stack products that deliver tangible value.
 
+- 🔭 I’m currently working on: **Scalable Web Apps & AI-driven solutions**
+- 🌱 I’m currently learning: **Advanced System Design & Cloud Deployment**
+- 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
+- ⚡ Fun fact: I’ve maintained a **450+ day streak** of solving DSA problems—consistency is my superpower!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Tech Stack & Tools
+
+Here’s a snapshot of the technologies I work with regularly:
+
+| **Category**       | **Technologies** |
+|--------------------|------------------|
+| **Frontend**       | React, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend**        | Java, Python, Node.js, Spring Boot |
+| **Database**       | SQL (MySQL, PostgreSQL), MongoDB |
+| **DSA & Core CS**  | Data Structures, Algorithms, OOP, OS, DBMS |
+| **Tools & Others** | Git, GitHub, VS Code, Postman, REST APIs |
+
+---
+
+### 📈 GitHub Stats
+
+I believe in showing up every day. Here's a visual representation of my consistency and technical preferences:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dastagiri3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dastagiri3&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+Check out some of my curated work that showcases my skills:
+
+- **[📚 Preparation Guide](https://github.com/Dastagiri3/Preparation-Guide):** A comprehensive, daily-updated repository of 400+ DSA solutions with complexity analysis, built to ace technical interviews.
+- **[📍 Geo-Link Sender App](https://github.com/Dastagiri3/Geo-Link-Sender-App):** A full-stack application leveraging geolocation to share real-time location data seamlessly.
+- **[📊 Retail Insights Dashboard](https://github.com/Dastagiri3/retail-insights-dashboard-explorer):** An interactive analytics dashboard designed to visualize retail data for better business decision-making.
+
+---
+
+### 🌐 Let's Connect
+
+I'm always open to networking, collaborations, or just a good tech conversation. Reach out to me here:
+
+<p align="left">
+  <a href="https://linkedin.com/in/[your-actual-linkedin-username]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[your-email]@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Dastagiri3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency over intensity. Keep building, keep solving!"</i>
+</p>
