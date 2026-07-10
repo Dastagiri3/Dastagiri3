@@ -1,3 +1,5 @@
+"👋 Hi, I'm Guru Dastagiri | Full-Stack Developer & AI Enthusiast".
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack web applications and AI-powered solutions<br>🤝 I’m looking to collaborate on real-world projects involving web development, automation, and AI systems<br>🧠 I’m looking for help with scaling applications, backend architecture, and deploying production-ready apps<br>🌱 I’m currently learning advanced full-stack development, system design, and AI integrations<br>💬 Ask me about HTML, CSS, JavaScript, React, Python, and building portfolio/projects<br>⚡ Fun fact: I love turning ideas into real-world applications and continuously improving my skills
 
