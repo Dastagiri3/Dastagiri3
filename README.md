@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer who loves transforming complex, real-world
 - 🔭 I’m currently working on: **Scalable Web Apps & AI-driven solutions**
 - 🌱 I’m currently learning: **Advanced System Design & Cloud Deployment**
 - 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
-- ⚡ Fun fact: I’ve maintained a **450+ day streak** of solving DSA problems—consistency is my superpower!
+- ⚡ Fun fact: I’ve maintained a **60+ day streak** of solving DSA problems—consistency is my superpower!
 
 ---
 
